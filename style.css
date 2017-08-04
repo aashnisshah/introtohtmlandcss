@@ -5,6 +5,12 @@ body {
     text-align: center;
 }
 
+.main {
+    width: 60%;
+    position: relative;
+    left: 20%;
+}
+
 h1 {
     font-size: 2em;
     color: #355C7D;
