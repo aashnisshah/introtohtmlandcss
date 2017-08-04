@@ -27,3 +27,7 @@ p {
 strong, i {
     color: #F67280;
 }
+
+ul, li {
+    list-style-type: none;
+}
