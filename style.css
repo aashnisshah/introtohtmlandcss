@@ -31,3 +31,12 @@ strong, i {
 ul, li {
     list-style-type: none;
 }
+
+a, a:link, a:visited, a:active {
+    color: #F67280;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #F8B195;
+}
