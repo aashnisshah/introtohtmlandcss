@@ -50,3 +50,11 @@ a:hover {
 ol li {
     text-align: left;
 }
+
+img {
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+    border: 3px solid #C06C84;
+    border-radius: 30px;
+}
