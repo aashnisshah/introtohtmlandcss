@@ -58,3 +58,9 @@ img {
     border: 3px solid #C06C84;
     border-radius: 30px;
 }
+
+.favouriteGame, .whatYouNeed {
+    padding: 10px;
+    margin: 10px;
+    background-color: #ffffff;
+}
